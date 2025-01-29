@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Force Perfect Memorye</name>
+    <author>Axilotl</author>
+    <packageId>axilotl.forceperfectmemory</packageId>
+    <version>1.5</version> <!-- Adjust to match the RimWorld version -->
+    <description>
+        Forces perfect memory trait to simply exist (cannot be found naturally) without Anomaly DLC
+    </description>
+</ModMetaData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>  <!-- Target .NET 6 -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Include NuGet package reference -->
+    <PackageReference Include="Lib.Harmony" Version="2.3.3" />
+    <PackageReference Include="Krafs.Rimworld.Ref" Version="1.5.4297" />
+  </ItemGroup>
+
+</Project>
